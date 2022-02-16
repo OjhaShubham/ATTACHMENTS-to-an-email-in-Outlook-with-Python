@@ -8,9 +8,9 @@ import pathlib
 outlook = client.Dispatch('Outlook.Application')
 message = outlook.CreateItem(0)
 
-message.To = 'bob.mortimer@email.com'
-message.CC = 'james.acaster@email.com'
-message.BCC = 'richard.ayoade@email.com'
+message.To = 'shubhamojha808@gmail.com'
+message.CC = 'shubhamojha809@gmail.com'
+
 
 message.Subject = 'Happy Birthday"'
 message.Body = ""
