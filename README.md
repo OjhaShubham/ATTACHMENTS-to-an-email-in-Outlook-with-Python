@@ -1,4 +1,4 @@
-# ATTACHMENTS-to-an-email-in-Outlook-with-Python
+# ATTACHMENTS Excel-to-an-email-in-Outlook-with-Python
 
 The first step is to create an outlook instance and mail item. We'll use the example from before except with the addition of the pathlib library. I'll explain why in the next step.
 
